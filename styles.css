@@ -449,4 +449,8 @@ footer {
     .highlight:not(:last-child) {
         margin-bottom: 24px;
     }
+
+    .book__ratings {
+        font-size: 12px;
+    }
 }
